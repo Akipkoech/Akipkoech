@@ -1,37 +1,41 @@
- 👋 Hey there, I'm Alex Koech 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akipkoech&show_icons=true&locale=en&hide_border=true&theme=transparent" align="center" alt="Akipkoech" />
+</p>
 
-🚀 Aspiring Cybersecurity Professional | Full-Stack Developer | Tech Enthusiast  
+<h3 align="left">EXPERTISE:</h3>
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="60" height="60"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  </a>
+</p>
 
-👀 About Me  
-- 🎓 4th-year BSc. Computer Science student at Kirinyaga University  
-- 💻 Passionate about Cybersecurity, Web Development, and System Design    
-- 📚 Learning Next.js, React, and advanced JavaScript  
-- ⚡ Fun fact: My code runs perfectly… until someone is watching. Then it forgets how to return 0; and starts summoning runtime demons. 👹💻😂
+- ⚡ Fun fact <br>
+**Learning to code; 50% googling, 49% crying, 1% caffeine** 😂
 
-🌱 Tech Stack  
-- Languages: JavaScript, Dart, PHP, SQL  
-- Frontend: React, Next.js, Flutter  
-- Backend: Node.js, Firebase, MySQL, PHP  
-- Security: Ethical Hacking, Cybersecurity Basics  
-- Tools & Platforms: Git, Figma, Linux  
-
- 💡 What I'm Looking For  
-- 🏗️ Open-source collaborations in cybersecurity and full-stack development  
-- 💬 Networking with developers, security experts, and tech enthusiasts
-- 🚀 Internship & job opportunities in software development and cybersecurity
-
-📫 Let's Connect  
-- 🌍 [Portfolio (Coming Soon)](https://yourportfolio.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-koech-a699b0222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🐦 [Twitter](https://twitter.com/@Alexkoech651)  
-- 📧 Email: ronohalex651@gmail.com 
-
----
-
-🔥 Code, Secure, Innovate! 🚀  
-
-
-<!---
-Akipkoech/Akipkoech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/alex-koech-a699b0222" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="60" />
+  </a>
+  <a href="https://www.instagram.com/alex.koech" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="60" />
+  </a>
+</p>
